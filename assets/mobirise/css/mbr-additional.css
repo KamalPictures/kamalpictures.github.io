@@ -623,7 +623,7 @@ section.lazy-placeholder:after {
   padding-top: 60px;
   padding-bottom: 45px;
   background: #000000;
-  background: linear-gradient(45deg, #000000, #ffffff);
+  background: linear-gradient(45deg, #000000, #000000);
 }
 .cid-swLp1NSngJ .image-block {
   margin: auto;
