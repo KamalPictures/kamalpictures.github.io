@@ -622,8 +622,8 @@ section.lazy-placeholder:after {
 .cid-swLp1NSngJ {
   padding-top: 60px;
   padding-bottom: 45px;
-  background: #cccccc;
-  background: linear-gradient(45deg, #cccccc, #cccccc);
+  background: #000000;
+  background: linear-gradient(45deg, #000000, #ffffff);
 }
 .cid-swLp1NSngJ .image-block {
   margin: auto;
