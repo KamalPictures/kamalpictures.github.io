@@ -2,7 +2,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 0.6rem;
   font-display: swap;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 0.96rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 0.8rem;
   font-display: swap;
 }
@@ -720,32 +720,65 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.cid-t8bxDymTH9 {
-  padding-top: 45px;
+.cid-spGGFIaR0U {
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-t8bxDymTH9 h3 {
+.cid-spGGFIaR0U .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-spGGFIaR0U .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-spGGFIaR0U .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-spGGFIaR0U .mbr-text {
+  color: #ffffff;
+}
+.cid-spGGFIaR0U .card {
+  padding-bottom: 1.5rem;
+}
+.cid-spGGFIaR0U H1 {
+  text-align: center;
+  color: #000000;
+}
+.cid-spGGFIaR0U .mbr-text,
+.cid-spGGFIaR0U .mbr-section-btn {
+  text-align: center;
+  color: #ff3366;
+}
+.cid-spGGFIaR0U H5 {
+  text-align: center;
+  color: #000000;
+}
+.cid-spGGFIaR0U SPAN {
+  color: #000000;
+}
+.cid-spGGFIaR0U P {
+  color: #ffffff;
   text-align: center;
 }
-.cid-t8bxDymTH9 .mbr-section-subtitle {
-  color: #000000;
-  font-weight: 300;
+.cid-spGGFIaR0U .mbr-text,
+.cid-spGGFIaR0U .mbr-section-btn B {
+  color: #ffffff;
 }
-.cid-t8bxDymTH9 .mbr-content-text {
-  color: #767676;
-}
-.cid-t8bxDymTH9 .card {
-  word-wrap: break-word;
-}
-.cid-t8bxDymTH9 .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-t8bxDymTH9 .mbr-section-title {
+.cid-spGGFIaR0U B {
   color: #000000;
 }
-.cid-t8bxDymTH9 H3 {
+.cid-spGGFIaR0U DIV {
+  color: #000000;
+}
+.cid-spGGFIaR0U FONT {
   color: #000000;
 }
 .cid-spGMV9kcPv {
